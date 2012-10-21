@@ -1,7 +1,10 @@
 *.iws
+*.ipr
+*.iml
 *Db.properties
 *Db.script
 .settings
+.idea
 eclipse
 stacktrace.log
 target

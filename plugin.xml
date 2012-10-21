@@ -1,0 +1,15 @@
+<plugin name='gorm-utils' version='0.1' grailsVersion='2.1 &gt; *'>
+  <author>Grygoriy Mykhalyuno</author>
+  <authorEmail>email@grygoriy.com</authorEmail>
+  <title>Gorm Utils Plugin</title>
+  <description>Plugin collects methods and technics for work with GORM
+</description>
+  <documentation>http://grails.org/plugin/gorm-utils</documentation>
+  <type>GormUtilsGrailsPlugin</type>
+  <resources />
+  <repositories />
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>
